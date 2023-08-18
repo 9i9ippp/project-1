@@ -219,7 +219,7 @@ main #leftside article .articlefooter .rights p span{
 }
 
 main #leftside article #secondfooter , main #leftside article #thirdfooter{
-    visibility: hidden;
+    display: none;
 }
 /*end lestside*/
  
