@@ -218,7 +218,10 @@ main #leftside article .articlefooter .rights p span{
     color: gray;
 }
 
-main #leftside article #secondfooter , main #leftside article #thirdfooter{
+#secondfooter{
+    display: none;
+}
+#thirdfooter{
     display: none;
 }
 /*end lestside*/
@@ -493,4 +496,6 @@ footer p a{
     }
 }
 
-
+#firstfooter {
+    display: none;
+}
